@@ -48,7 +48,7 @@ function setScroll(){
           setActive(currentsectionId);
 
         }
-    },{ offset: '150px'});
+    },{ offset: '-1px'});
 
 }
 setScroll();
